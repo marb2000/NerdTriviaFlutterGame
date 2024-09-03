@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "787127091202",
+    "project_id": "vertex-ai-for-firebase",
+    "storage_bucket": "vertex-ai-for-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787127091202:android:6b9a46edbe7967bebd671b",
+        "android_client_info": {
+          "package_name": "com.example.magicbackpack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVqMuYUb3Ni_LekaqwkGoZo4p19B2qthw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787127091202:android:fd46d5b5bc1cdd68bd671b",
+        "android_client_info": {
+          "package_name": "com.example.verte"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVqMuYUb3Ni_LekaqwkGoZo4p19B2qthw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787127091202:android:b086925a57eea3fcbd671b",
+        "android_client_info": {
+          "package_name": "con.triviagame.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVqMuYUb3Ni_LekaqwkGoZo4p19B2qthw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

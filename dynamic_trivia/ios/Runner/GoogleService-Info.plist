@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCJKyrldTLMaSf5oT9YMqScL9ch0SfZlSU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>787127091202</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.dynamicTrivia</string>
+	<key>PROJECT_ID</key>
+	<string>vertex-ai-for-firebase</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vertex-ai-for-firebase.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:787127091202:ios:e4018d9aac369bc7bd671b</string>
+</dict>
+</plist>
